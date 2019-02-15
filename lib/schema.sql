@@ -1,4 +1,4 @@
-CREATE TABLE series (
+CREATE TABLE Series (
   id PRIMARY KEY INGEGER
   title TEXT
   author_id INTEGER
